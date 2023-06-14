@@ -11,6 +11,8 @@
 		37266E7E2A3A115E0065CF39 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37266E7D2A3A115E0065CF39 /* ContentView.swift */; };
 		37266E802A3A115F0065CF39 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37266E7F2A3A115F0065CF39 /* Assets.xcassets */; };
 		37266E842A3A115F0065CF39 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37266E832A3A115F0065CF39 /* Preview Assets.xcassets */; };
+		37266E8B2A3A11E70065CF39 /* ToDoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37266E8A2A3A11E70065CF39 /* ToDoItem.swift */; };
+		37266E8D2A3A11FD0065CF39 /* NewToDoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37266E8C2A3A11FD0065CF39 /* NewToDoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		37266E7F2A3A115F0065CF39 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		37266E812A3A115F0065CF39 /* day8.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = day8.entitlements; sourceTree = "<group>"; };
 		37266E832A3A115F0065CF39 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		37266E8A2A3A11E70065CF39 /* ToDoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
+		37266E8C2A3A11FD0065CF39 /* NewToDoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewToDoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				37266E7B2A3A115E0065CF39 /* day8App.swift */,
 				37266E7D2A3A115E0065CF39 /* ContentView.swift */,
+				37266E8A2A3A11E70065CF39 /* ToDoItem.swift */,
+				37266E8C2A3A11FD0065CF39 /* NewToDoView.swift */,
 				37266E7F2A3A115F0065CF39 /* Assets.xcassets */,
 				37266E812A3A115F0065CF39 /* day8.entitlements */,
 				37266E822A3A115F0065CF39 /* Preview Content */,
@@ -141,6 +147,8 @@
 			files = (
 				37266E7E2A3A115E0065CF39 /* ContentView.swift in Sources */,
 				37266E7C2A3A115E0065CF39 /* day8App.swift in Sources */,
+				37266E8B2A3A11E70065CF39 /* ToDoItem.swift in Sources */,
+				37266E8D2A3A11FD0065CF39 /* NewToDoView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
